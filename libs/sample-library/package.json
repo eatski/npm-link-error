@@ -1,0 +1,17 @@
+{
+  "name": "sample-library",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "colors": "^1.4.0"
+  },
+  "dependencies": {
+    "string-format": "^2.0.0"
+  }
+}
