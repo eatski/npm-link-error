@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:12.17.0
 COPY . /src
 WORKDIR /src
 # package sample library

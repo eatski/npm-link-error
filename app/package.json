@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
-    "sample-library": "file:../libs/sample-library/sample-library-0.0.1.tgz",
+    "sample-library": "file:../libs/sample-library/sample-library-1.0.0.tgz",
     "string-format": "^2.0.0"
   }
 }
